@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=LAHlE_Lt9N4&t=37s
+
+https://github.com/codigoquant/stock_dashboard/blob/main/app.py
